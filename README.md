@@ -22,7 +22,7 @@ cd .../password-generator/
 ```
 3. Run the program:
 ```
-python main.py
+python password-generator.py
 ```
 ## What I learnt
 - Handling user input validation
