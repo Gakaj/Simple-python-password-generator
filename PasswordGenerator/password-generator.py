@@ -3,9 +3,9 @@ print("Welcome to a simple password generator")
 print("Auto length is 10 characters")
 
 
-
+numbers = "0123456789"
 punct = "*&^%$\£@;:~#]{]}¬`!?</>_" #Set of punctuation that can be generated.
-chars = string.ascii_letters + punct # Set of possible characters (letters(a-Z) and punctuation)
+chars = string.ascii_letters + punct + numbers # Set of possible characters (letters(a-Z) and punctuation)
 
 def generator_without_length(chars):
     password = "".join(random.choice(chars) for i in range(10))
