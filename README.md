@@ -10,15 +10,20 @@ A simple command-line tool that generates secure random password based on user-d
 - Uses letters, numbers and symbols
 
 ## How To Run
+
 1. Clone the repository:
-   <cliboard-copy>git clone https://github.com/your-username/password-generator.git
+```
+git clone https://github.com/your-username/password-generator.git
+```
 
 2. Navigate into the folder:
-   cd password-generator
-
+```
+cd .../password-generator/
+```
 3. Run the program:
-   python main.py
-
+```
+python main.py
+```
 ## What I learnt
 - Handling user input validation
 - Using proper testing criteria
