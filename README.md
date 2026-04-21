@@ -11,7 +11,7 @@ A simple command-line tool that generates secure random password based on user-d
 
 ## How To Run
 1. Clone the repository:
-   git clone https://github.com/your-username/password-generator.git
+   <cliboard-copy>git clone https://github.com/your-username/password-generator.git
 
 2. Navigate into the folder:
    cd password-generator
