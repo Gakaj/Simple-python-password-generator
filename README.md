@@ -12,16 +12,16 @@ A simple command-line tool that generates secure random password based on user-d
 ## How To Run
 
 1. Clone the repository:
-```
-git clone https://github.com/your-username/password-generator.git
+```bash
+git clone https://github.com/Gakaj/Simple-python-password-generator.git
 ```
 
 2. Navigate into the folder:
-```
+```bash
 cd .../password-generator/
 ```
 3. Run the program:
-```
+```bash
 python password-generator.py
 ```
 ## What I learnt
